@@ -7,5 +7,5 @@ Class Main {
     }
 }
 line 4
-line 5
-line 6 by Dhamu
+line 10
+line 6 by Dharmu
